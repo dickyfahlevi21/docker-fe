@@ -1,3 +1,6 @@
+# Dockerhub link FE
+https://hub.docker.com/repository/docker/dickyfahlevi21/fe-vue
+
 # vuex
 
 - [x] Register
